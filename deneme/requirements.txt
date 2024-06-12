@@ -1,1 +1,6 @@
+Flask
+PyPDF2
+pikepdf
+pdf2image
+werkzeug
 
